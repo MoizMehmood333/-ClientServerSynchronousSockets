@@ -1,0 +1,8 @@
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\bin\Debug\ClientSide.exe.config
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\bin\Debug\ClientSide.exe
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\bin\Debug\ClientSide.pdb
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\obj\Debug\ClientSide.csproj.AssemblyReference.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\obj\Debug\ClientSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\obj\Debug\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\obj\Debug\ClientSide.exe
+C:\Users\mmoiz\Desktop\ClientServerApp\ClientSide\obj\Debug\ClientSide.pdb
